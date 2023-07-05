@@ -1,5 +1,5 @@
 :root {
-  --background-color: #24000e;
+  --background-color: #17162E;
 }
 
 * {
@@ -65,7 +65,7 @@ h2 {
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
-  background: #4d011e;
+  background: #1D1C3B;
   border-radius: 0.5rem; 
   padding: 1rem;
   margin: 0 auto;
