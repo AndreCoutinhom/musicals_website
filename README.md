@@ -6,7 +6,7 @@ Esse projeto foi feito a partir de um programa desenvolvido durante um #7DaysOfC
 Originalmente, o programa ensinado durante o período de atividades criava uma interface para filmes da escolha do programador. O projeto original pode ser acessado no botão abaixo.
 
 <div> 
-   <a href="https://github.com/AndreCoutinhom/alura_github_program"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple"></a>
+   <a href="https://github.com/AndreCoutinhom/alura_github_program" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple"></a>
  </div>
  
 ##
