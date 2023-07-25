@@ -454,29 +454,44 @@
       
     </div>
   </main>
-  <!-- ... seu HTML existente ... -->
+  <!-- ... (seu código HTML) ... -->
 
 <script>
-  // Função para filtrar os musicais com base no termo digitado
-  function filterShows() {
-    const input = document.getElementById('show-name');
-    const filter = input.value.toUpperCase();
-    const shows = document.getElementsByClassName('show');
+  document.addEventListener('DOMContentLoaded', function () {
+    const searchBar = document.getElementById('show-name');
+    const shows = document.querySelectorAll('.show');
 
-    for (let i = 0; i < shows.length; i++) {
-      const title = shows[i].querySelector('h4');
+    searchBar.addEventListener('input', function () {
+      const searchTerm = searchBar.value.toLowerCase().trim();
 
-      if (title.innerText.toUpperCase().indexOf(filter) > -1 {
-        shows[i].style.display = 'flex';
-      } else {
-        shows[i].style.display = 'none';
+      shows.forEach(function (show) {
+        const showText = show.querySelector('.show-text h4').textContent.toLowerCase();
+
+        if (showText.includes(searchTerm)) {
+          show.style.display = 'flex';
+        } else {
+          show.style.display = 'none';
+        }
+      });
+    });
+
+    searchBar.addEventListener('keydown', function (event) {
+      if (event.key === 'Enter') {
+        const searchTerm = searchBar.value.toLowerCase().trim();
+
+        const matchingShow = [...shows].find(function (show) {
+          const showText = show.querySelector('.show-text h4').textContent.toLowerCase();
+          return showText.includes(searchTerm);
+        });
+
+        if (matchingShow) {
+          matchingShow.scrollIntoView({ behavior: 'smooth' });
+        }
       }
-    }
-  }
-
-  // Adicionar um evento de escuta de digitação na barra de pesquisa
-  document.getElementById('show-name').addEventListener('keyup', filterShows);
+    });
+  });
 </script>
+
 
 </body>
 </html>
