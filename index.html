@@ -454,5 +454,30 @@
       
     </div>
   </main>
+  <!-- ... seu HTML existente ... -->
+
+<script>
+  // Função para filtrar os musicais com base no termo digitado
+  function filterShows() {
+    const input = document.getElementById('show-name');
+    const filter = input.value.toUpperCase();
+    const shows = document.getElementsByClassName('show');
+
+    for (let i = 0; i < shows.length; i++) {
+      const title = shows[i].querySelector('h4');
+      const showDescription = shows[i].querySelector('.show-description');
+
+      if (title.innerText.toUpperCase().indexOf(filter) > -1 || showDescription.innerText.toUpperCase().indexOf(filter) > -1) {
+        shows[i].style.display = 'flex';
+      } else {
+        shows[i].style.display = 'none';
+      }
+    }
+  }
+
+  // Adicionar um evento de escuta de digitação na barra de pesquisa
+  document.getElementById('show-name').addEventListener('keyup', filterShows);
+</script>
+
 </body>
 </html>
