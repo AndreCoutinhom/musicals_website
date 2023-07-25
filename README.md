@@ -17,7 +17,7 @@ Originalmente, o programa ensinado durante o período de atividades criava uma i
  
 ##
 
-Com algumas mudanças de sintaxe e imagens, eu adaptei o site para que mostrasse alguns musicais da Broadway que o desenvolvedor escolher. Além disso, vinculei os ícones das imagens para que direcionassem o usuário para o álbum do respectivo musical no Spotify. 
+Com algumas mudanças de sintaxe e imagens, eu adaptei o site para que mostrasse alguns musicais da Broadway que o desenvolvedor escolher. Além disso, vinculei os ícones das imagens para que direcionassem o usuário para o álbum do respectivo musical no Spotify e tornei a barra de pesquisa funcional.
 
 ##
 
