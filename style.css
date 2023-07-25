@@ -106,7 +106,7 @@ h2 {
   gap: 2rem;
 }
 
-.show-informations .rating, .show-informations .favorite {
+.show-informations .story, .show-informations .music {
   display: flex;
   align-items: center;
   gap: 0.5rem;
