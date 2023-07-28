@@ -478,42 +478,46 @@
     </div>
   </main>
   <!-- ... (seu código HTML) ... -->
-
 <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    const searchBar = document.getElementById('show-name');
-    const shows = document.querySelectorAll('.show');
+      document.addEventListener('DOMContentLoaded', function () {
+        const searchBar = document.getElementById('show-name');
+        const shows = document.querySelectorAll('.show');
 
-    searchBar.addEventListener('input', function () {
-      const searchTerm = searchBar.value.toLowerCase().trim();
+        searchBar.addEventListener('input', function () {
+          const searchTerm = searchBar.value.toLowerCase().trim();
 
-      shows.forEach(function (show) {
-        const showText = show.querySelector('.show-text h4').textContent.toLowerCase();
+          shows.forEach(function (show) {
+            const showTitle = show.querySelector('.show-text h4').textContent.toLowerCase();
+            const showStory = show.querySelector('.story span').textContent.toLowerCase();
+            const showMusic = show.querySelector('.music span').textContent.toLowerCase();
 
-        if (showText.includes(searchTerm)) {
-          show.style.display = 'flex';
-        } else {
-          show.style.display = 'none';
-        }
-      });
-    });
-
-    searchBar.addEventListener('keydown', function (event) {
-      if (event.key === 'Enter') {
-        const searchTerm = searchBar.value.toLowerCase().trim();
-
-        const matchingShow = [...shows].find(function (show) {
-          const showText = show.querySelector('.show-text h4').textContent.toLowerCase();
-          return showText.includes(searchTerm);
+            if (showTitle.includes(searchTerm) || showStory.includes(searchTerm) || showMusic.includes(searchTerm)) {
+              show.style.display = 'flex';
+            } else {
+              show.style.display = 'none';
+            }
+          });
         });
 
-        if (matchingShow) {
-          matchingShow.scrollIntoView({ behavior: 'smooth' });
-        }
-      }
-    });
-  });
-</script>
+        searchBar.addEventListener('keydown', function (event) {
+          if (event.key === 'Enter') {
+            const searchTerm = searchBar.value.toLowerCase().trim();
+
+            const matchingShow = [...shows].find(function (show) {
+              const showTitle = show.querySelector('.show-text h4').textContent.toLowerCase();
+              const showStory = show.querySelector('.story span').textContent.toLowerCase();
+              const showMusic = show.querySelector('.music span').textContent.toLowerCase();
+              return showTitle.includes(searchTerm) || showStory.includes(searchTerm) || showMusic.includes(searchTerm);
+            });
+
+            if (matchingShow) {
+              matchingShow.scrollIntoView({ behavior: 'smooth' });
+            }
+          }
+        });
+      });
+    </script>
+
 
 
 </body>
