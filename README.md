@@ -1,8 +1,28 @@
-# Musicals Website
+<h1 align="center">
+   Musicals Website
+
+</h1>
 
 <div> 
-   <a href="https://andrecoutinhom.github.io/musicals_website/" target="_blank"><img src="https://www.marypoppinsonstage.co.uk/img/2019/city-v3.png" target="_blank"></a>
+   <a href="https://andrecoutinhom.github.io/musicals_website/" target="_blank"><img src="https://www.marypoppinsonstage.co.uk/img/2019/city-v3.png" target="_blank">
+   </a>
+   
+   <img height="110" width="160" align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ef2de4b-0e30-4c7b-b332-7cb148208bba/d6ijz9i-3229603b-35b0-4352-8ab7-3aa2c4fe314c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlZjJkZTRiLTBlMzAtNGM3Yi1iMzMyLTdjYjE0ODIwOGJiYVwvZDZpano5aS0zMjI5NjAzYi0zNWIwLTQzNTItOGFiNy0zYWEyYzRmZTMxNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jO1ghv_7zAR2U9EFmoz6Hd_XlcXFCrSjhzFwJlqwmB4">
+
+   <img height="110" width="160"  align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ef2de4b-0e30-4c7b-b332-7cb148208bba/d6ijz9i-3229603b-35b0-4352-8ab7-3aa2c4fe314c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlZjJkZTRiLTBlMzAtNGM3Yi1iMzMyLTdjYjE0ODIwOGJiYVwvZDZpano5aS0zMjI5NjAzYi0zNWIwLTQzNTItOGFiNy0zYWEyYzRmZTMxNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jO1ghv_7zAR2U9EFmoz6Hd_XlcXFCrSjhzFwJlqwmB4">
+
+   <img height="110" width="160"  align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ef2de4b-0e30-4c7b-b332-7cb148208bba/d6ijz9i-3229603b-35b0-4352-8ab7-3aa2c4fe314c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlZjJkZTRiLTBlMzAtNGM3Yi1iMzMyLTdjYjE0ODIwOGJiYVwvZDZpano5aS0zMjI5NjAzYi0zNWIwLTQzNTItOGFiNy0zYWEyYzRmZTMxNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jO1ghv_7zAR2U9EFmoz6Hd_XlcXFCrSjhzFwJlqwmB4">
+
+   <img height="110" width="160"  align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ef2de4b-0e30-4c7b-b332-7cb148208bba/d6ijz9i-3229603b-35b0-4352-8ab7-3aa2c4fe314c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlZjJkZTRiLTBlMzAtNGM3Yi1iMzMyLTdjYjE0ODIwOGJiYVwvZDZpano5aS0zMjI5NjAzYi0zNWIwLTQzNTItOGFiNy0zYWEyYzRmZTMxNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jO1ghv_7zAR2U9EFmoz6Hd_XlcXFCrSjhzFwJlqwmB4">
+
+   <img height="110" width="160"  align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ef2de4b-0e30-4c7b-b332-7cb148208bba/d6ijz9i-3229603b-35b0-4352-8ab7-3aa2c4fe314c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlZjJkZTRiLTBlMzAtNGM3Yi1iMzMyLTdjYjE0ODIwOGJiYVwvZDZpano5aS0zMjI5NjAzYi0zNWIwLTQzNTItOGFiNy0zYWEyYzRmZTMxNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jO1ghv_7zAR2U9EFmoz6Hd_XlcXFCrSjhzFwJlqwmB4">
+
+   <img height="110" width="160"  align="center" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ef2de4b-0e30-4c7b-b332-7cb148208bba/d6ijz9i-3229603b-35b0-4352-8ab7-3aa2c4fe314c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZlZjJkZTRiLTBlMzAtNGM3Yi1iMzMyLTdjYjE0ODIwOGJiYVwvZDZpano5aS0zMjI5NjAzYi0zNWIwLTQzNTItOGFiNy0zYWEyYzRmZTMxNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jO1ghv_7zAR2U9EFmoz6Hd_XlcXFCrSjhzFwJlqwmB4">
+
+   
  </div>
+
+###
 
 Musicals Website é um projeto que cria uma interface para pessoas que gostam e acompanham a trilha sonora e a história de clássicos e famosos musicais da Broadway. No site o usuário encontra uma lista de musicais da Broadway contendo seus nomes, sinopses, capas de álbum, músicos e escritores
 
