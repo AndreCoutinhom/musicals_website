@@ -27,10 +27,10 @@
 
 ###
 
-Musicals Website é um projeto que cria uma interface para pessoas que gostam e acompanham a trilha sonora e a história de clássicos e famosos musicais da Broadway. No site o usuário encontra uma lista de musicais da Broadway contendo seus nomes, sinopses, capas de álbum, músicos e escritores. Acessando o site, o usuário encontra diversos musicais da Broadway acompanhados, cada um, de um ícone direcionador de Spotify, breves descrições e um vídeo com introduções ou palinhas do respectivo show.
-
 * [HTML](index.html)
 * [CSS](style.css)
+
+Musicals Website é um projeto que cria uma interface para pessoas que gostam e acompanham a trilha sonora e a história de clássicos e famosos musicais da Broadway. No site o usuário encontra uma lista de musicais da Broadway contendo seus nomes, sinopses, capas de álbum, músicos e escritores. Acessando o site, o usuário encontra diversos musicais da Broadway acompanhados, cada um, de um ícone direcionador de Spotify, breves descrições e um vídeo com introduções ou palinhas do respectivo show.
 
 
 ## Projeto 🖥️
