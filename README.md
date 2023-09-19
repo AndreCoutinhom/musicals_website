@@ -79,6 +79,8 @@ Na classe "show-image", adicionei um valor href e o liguei ao link do spotify re
 
 ### Adição de vídeo do Youtube <img align="center" alt="lab" height="25" width="25" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png">
 
+  ![Youtube](youtube_player.gif)
+
 Utilizando a ferramenta disponibilizada pelo próprio Youtube de compartilhamento de vídeo por incorporação, posicionei vídeos integrados do Youtube junto à descrição dos musicais na classe "show_description". O código é fornecido pelo próprio Youtube, sendo alterado por mim apenas em dimensionamento de imagem.
 
 ##### Sem vídeo integrado 🔴
@@ -103,6 +105,8 @@ Utilizando a ferramenta disponibilizada pelo próprio Youtube de compartilhament
 ##
 
 ### Barra de pesquisa funcional 🔍
+
+  ![Search](search_bar.gif)
 
 O código em HTML fornecido pela atividade da Alura contava com uma barra de pesquisa não funcional. Sem conhecimento suficiente em JavaScript para que a barra se tornasse funcional, a requisição para que a barra funcionasse de forma que o respectivo musical, artista ou músico pesquisado aparecesse de forma exclusiva na página; foi feita através do Chat GPT 3.5. O pedido ao chat GPT foi feito da seguinte forma:
 
