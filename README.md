@@ -39,6 +39,8 @@ Esse projeto foi feito a partir de um programa desenvolvido durante um #7DaysOfC
 Originalmente, o programa ensinado durante o período de atividades criava uma interface para filmes da escolha do programador. O projeto original pode ser acessado no botão abaixo.
 
 <div> 
+  
+  ![Filmes](filmes_alura.gif)
    <a href="https://github.com/AndreCoutinhom/alura_github_program" target="_blank"><img height="42" width="143" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=purple" target="_blank"></a>
  </div>
 
@@ -50,6 +52,8 @@ No momento, a funcionalidade do projeto Musicals Website é servir como ponto de
 Apesar de utilizar a mesma estrutura informacional do projeto original, há algumas mudanças que foram aplicadas neste projeto. Boa parte das mudanças feitas no código foram na nomeação de classes e alteração de cores pelo CSS, mas há mudanças que interferem diretamente na experiência funcional que o usuário pode ter no Musicals Website. A seguir serão listadas as principais diferenças na função do Musicals Website em comparação com o projeto realizado no programa #7DaysOfCode.
 
 ### Direcionamento ao Spotify <img align="center" alt="lab" height="25" width="25" src="https://dl2.macupdate.com/images/icons256/33033.png?time=1670529546">
+
+![Spotify](spotify_pointer.gif)
 
 Na classe "show-image", adicionei um valor href e o liguei ao link do spotify referente ao album de cada musical presente na plataforma. Os códigos abaixo mostram a diferença entre o código sem direcionamento e o código com direcionamento usando o exemplo do campo do musical "Hamilton".
 
